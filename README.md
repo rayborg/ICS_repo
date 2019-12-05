@@ -6,7 +6,7 @@ NIST guidelines for ICS cybersecurity
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-201.pdf
 
 **PCAP libraries:**
-  *SCADA/ICS Network Captures
+*SCADA/ICS Network Captures
   4SICS ICS Lab PCAP files - 360 MB of PCAP files from the ICS village at 4SICS
   https://www.netresec.com/?page=PCAP4SICS
 
@@ -30,3 +30,7 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-201.pdf
 
   *ICS Cybersecurity PCAP repository by Univ. of Coimbra CyberSec team
   https://github.com/tjcruz-dei/ICS_PCAPS
+
+Two big pcap libraries
+https://wiki.wireshark.org/SampleCaptures
+https://www.netresec.com/index.ashx?page=PcapFiles
