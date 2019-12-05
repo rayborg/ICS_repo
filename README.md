@@ -5,7 +5,7 @@ https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icss
 ## NIST guidelines for ICS cybersecurity
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-201.pdf
 
-## **PCAP libraries:**
+## **PCAP libraries for Industrial Control Systems:**
 * SCADA/ICS Network Captures
   4SICS ICS Lab PCAP files - 360 MB of PCAP files from the ICS village at 4SICS
   https://www.netresec.com/?page=PCAP4SICS
