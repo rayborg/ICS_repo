@@ -1,6 +1,5 @@
 # ICS_repo
 Collection of resources for Industrial control system cybersecurity
-https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
 
 ## NIST guidelines for ICS cybersecurity
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-201.pdf
@@ -34,3 +33,6 @@ https://packettotal.com/app/analysis?id=0e55d9467f138d148c9635617bc8fd83
 # Two big pcap libraries general
 - https://wiki.wireshark.org/SampleCaptures
 - https://www.netresec.com/index.ashx?page=PcapFiles
+
+## Helpful links
+- https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
