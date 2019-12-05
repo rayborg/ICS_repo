@@ -1,5 +1,5 @@
 # ICS_repo
-Collection of resources for Industrial control system cybersecurity
+Collection of resources for Industrial Control System Cybersecurity
 
 ## NIST guidelines for ICS cybersecurity
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-201.pdf
