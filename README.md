@@ -34,6 +34,9 @@ https://packettotal.com/app/analysis?id=0e55d9467f138d148c9635617bc8fd83
 - https://wiki.wireshark.org/SampleCaptures
 - https://www.netresec.com/index.ashx?page=PcapFiles
 
+# Rapid7 Datasets
+- https://opendata.rapid7.com/
+
 ## Helpful links
 - https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
 ## PCAP parser
