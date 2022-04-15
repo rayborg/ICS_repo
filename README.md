@@ -41,3 +41,6 @@ https://packettotal.com/app/analysis?id=0e55d9467f138d148c9635617bc8fd83
 - https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
 ## PCAP parser
 - https://wiki.wireshark.org/Tools
+
+## SCADA HACKING TOOLS
+https://scadahacker.com/library/
